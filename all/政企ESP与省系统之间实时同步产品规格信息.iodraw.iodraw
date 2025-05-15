@@ -215,6 +215,9 @@
         <mxCell id="xL98NMUoyMBRL7YVbBff-20" value="修改或新增计数，添加到资费计划" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="660" y="195" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LzCrGwsiTTxw4CU_Dxde-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LzCrGwsiTTxw4CU_Dxde-3" target="xL98NMUoyMBRL7YVbBff-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LzCrGwsiTTxw4CU_Dxde-3" value="数据库是否已存在产品信息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="795" y="345" width="90" height="65" as="geometry" />
         </mxCell>

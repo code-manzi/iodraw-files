@@ -216,7 +216,7 @@
           <mxGeometry x="660" y="195" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LzCrGwsiTTxw4CU_Dxde-3" value="数据库是否已存在产品信息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="800" y="355" width="90" height="65" as="geometry" />
+          <mxGeometry x="788.5" y="345" width="90" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

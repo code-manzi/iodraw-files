@@ -142,7 +142,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xL98NMUoyMBRL7YVbBff-75" value="短信提醒" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="398" y="490" width="70" height="30" as="geometry" />
+          <mxGeometry x="389" y="490" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xL98NMUoyMBRL7YVbBff-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xL98NMUoyMBRL7YVbBff-79" target="xL98NMUoyMBRL7YVbBff-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -172,7 +172,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xL98NMUoyMBRL7YVbBff-86" value="产品资费计划" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="653" y="410" width="117" height="30" as="geometry" />
+          <mxGeometry x="654.5" y="420" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="spZRGQfYR7ohudG9C8o0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="spZRGQfYR7ohudG9C8o0-24" target="spZRGQfYR7ohudG9C8o0-29" edge="1">
           <mxGeometry relative="1" as="geometry" />

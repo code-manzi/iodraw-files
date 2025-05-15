@@ -96,7 +96,7 @@
         <mxCell id="xL98NMUoyMBRL7YVbBff-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xL98NMUoyMBRL7YVbBff-38" target="xL98NMUoyMBRL7YVbBff-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xL98NMUoyMBRL7YVbBff-38" value="修改或新增计数，添加到资费计划" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="xL98NMUoyMBRL7YVbBff-38" value="修改或新增计数，添加到移动云目录信息列表" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="880" y="200" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xBNJbQGj66HMbcFQs4nb-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xL98NMUoyMBRL7YVbBff-56" target="xL98NMUoyMBRL7YVbBff-37">
@@ -206,7 +206,7 @@
         <mxCell id="spZRGQfYR7ohudG9C8o0-29" value="是否存在该费项" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="510" y="130" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xL98NMUoyMBRL7YVbBff-20" value="修改或新增计数，添加到资费计划列表" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="xL98NMUoyMBRL7YVbBff-20" value="修改或新增计数，添加到资费计划" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="660" y="200" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LzCrGwsiTTxw4CU_Dxde-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LzCrGwsiTTxw4CU_Dxde-3" target="xL98NMUoyMBRL7YVbBff-86" edge="1">

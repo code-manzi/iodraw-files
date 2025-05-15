@@ -130,7 +130,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xL98NMUoyMBRL7YVbBff-66" value="是否为修改操作" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="364" y="355" width="110" height="40" as="geometry" />
+          <mxGeometry x="515" y="355" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xL98NMUoyMBRL7YVbBff-71" value="处理产品信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="663" y="360" width="100" height="30" as="geometry" />

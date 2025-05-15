@@ -113,14 +113,6 @@
         <mxCell id="xL98NMUoyMBRL7YVbBff-56" value="保存入库" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="586.5" y="255" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xL98NMUoyMBRL7YVbBff-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xL98NMUoyMBRL7YVbBff-57" target="xL98NMUoyMBRL7YVbBff-66" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="840" y="350" />
-              <mxPoint x="469" y="350" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xL98NMUoyMBRL7YVbBff-57" value="保存入库" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="805" y="255" width="70" height="30" as="geometry" />
         </mxCell>
@@ -187,6 +179,14 @@
         </mxCell>
         <mxCell id="xL98NMUoyMBRL7YVbBff-86" value="产品资费计划" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="773" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spZRGQfYR7ohudG9C8o0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.485;entryY=0.225;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xL98NMUoyMBRL7YVbBff-57" target="xL98NMUoyMBRL7YVbBff-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="340" />
+              <mxPoint x="412" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -147,11 +147,6 @@
         <mxCell id="spZRGQfYR7ohudG9C8o0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xL98NMUoyMBRL7YVbBff-74" target="xL98NMUoyMBRL7YVbBff-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="spZRGQfYR7ohudG9C8o0-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="spZRGQfYR7ohudG9C8o0-15">
-          <mxGeometry x="0.8927" y="-3" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xL98NMUoyMBRL7YVbBff-74" value="产品信息批量入库" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="860" y="410" width="120" height="30" as="geometry" />
         </mxCell>

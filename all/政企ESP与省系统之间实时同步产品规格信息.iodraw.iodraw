@@ -169,13 +169,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xL98NMUoyMBRL7YVbBff-85" value="产品详细信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="750" y="350" width="100" height="30" as="geometry" />
+          <mxGeometry x="760" y="360" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xL98NMUoyMBRL7YVbBff-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xL98NMUoyMBRL7YVbBff-86" target="xL98NMUoyMBRL7YVbBff-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xL98NMUoyMBRL7YVbBff-86" value="产品资费计划" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="875" y="350" width="100" height="30" as="geometry" />
+          <mxGeometry x="875" y="360" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

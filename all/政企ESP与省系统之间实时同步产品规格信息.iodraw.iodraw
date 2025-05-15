@@ -203,7 +203,7 @@
             <mxPoint x="-35" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="spZRGQfYR7ohudG9C8o0-29" value="作" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="spZRGQfYR7ohudG9C8o0-29" value="是否存在该费项" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="510" y="130" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xL98NMUoyMBRL7YVbBff-20" value="修改或新增计数，添加到资费计划" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">

@@ -238,6 +238,9 @@
         <mxCell id="LzCrGwsiTTxw4CU_Dxde-29" value="政企ESP" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="LzCrGwsiTTxw4CU_Dxde-30" value="未命名图层" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="LzCrGwsiTTxw4CU_Dxde-31" value="未命名图层" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="LzCrGwsiTTxw4CU_Dxde-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LzCrGwsiTTxw4CU_Dxde-31">
+          <mxGeometry x="770" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -63,19 +63,14 @@
         <mxCell id="46LgnLH8FgtCA4z9fSo7-11" value="完成" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="620" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="46LgnLH8FgtCA4z9fSo7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="46LgnLH8FgtCA4z9fSo7-15" target="46LgnLH8FgtCA4z9fSo7-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="46LgnLH8FgtCA4z9fSo7-15" value="人工审批流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="400" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="46LgnLH8FgtCA4z9fSo7-18" value="中台交付大禹账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="480" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="46LgnLH8FgtCA4z9fSo7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.403;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="46LgnLH8FgtCA4z9fSo7-15" target="46LgnLH8FgtCA4z9fSo7-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="110" y="460" />
-              <mxPoint x="98" y="460" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="46LgnLH8FgtCA4z9fSo7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="46LgnLH8FgtCA4z9fSo7-20">
           <mxGeometry relative="1" as="geometry">

@@ -31,7 +31,7 @@
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-6" value="应用服务器" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="585" width="120" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="YQE8ubXrY4pjJoS9pgZT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-7" target="YQE8ubXrY4pjJoS9pgZT-8">
+        <mxCell id="YQE8ubXrY4pjJoS9pgZT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-15" target="YQE8ubXrY4pjJoS9pgZT-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-7" value="前置机&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -43,11 +43,6 @@
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.86;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-8" target="YQE8ubXrY4pjJoS9pgZT-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YQE8ubXrY4pjJoS9pgZT-16" value="单向光闸" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YQE8ubXrY4pjJoS9pgZT-13">
-          <mxGeometry x="0.4488" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-20" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YQE8ubXrY4pjJoS9pgZT-13">
           <mxGeometry x="0.1185" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
@@ -58,11 +53,28 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YQE8ubXrY4pjJoS9pgZT-15" value="人车校验数据，通过单向光闸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="828" width="180" height="30" as="geometry" />
+        <mxCell id="YQE8ubXrY4pjJoS9pgZT-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YQE8ubXrY4pjJoS9pgZT-13">
+          <mxGeometry x="0.4548" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YQE8ubXrY4pjJoS9pgZT-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-15" target="YQE8ubXrY4pjJoS9pgZT-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.4;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-5" target="YQE8ubXrY4pjJoS9pgZT-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YQE8ubXrY4pjJoS9pgZT-23" value="人车校验数据，通过单向光闸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="828" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YQE8ubXrY4pjJoS9pgZT-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-7" target="YQE8ubXrY4pjJoS9pgZT-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="388" y="792" as="sourcePoint" />
+            <mxPoint x="370" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YQE8ubXrY4pjJoS9pgZT-15" value="人车校验数据，通过单向光闸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="828" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

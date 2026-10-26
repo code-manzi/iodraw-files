@@ -38,14 +38,14 @@
           <mxGeometry x="370" y="730" width="120" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-8" value="公安内网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="930" width="120" height="80" as="geometry" />
+          <mxGeometry x="353" y="950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.86;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-8" target="YQE8ubXrY4pjJoS9pgZT-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-27" value="校验结果，单向光闸返回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YQE8ubXrY4pjJoS9pgZT-13">
           <mxGeometry x="0.5005" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="85" y="46" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.4;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-5" target="YQE8ubXrY4pjJoS9pgZT-4">
@@ -58,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-15" value="人车校验数据，通过单向光闸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="828" width="180" height="30" as="geometry" />
+          <mxGeometry x="370" y="870" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

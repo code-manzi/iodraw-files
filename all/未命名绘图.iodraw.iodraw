@@ -22,19 +22,6 @@
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-5" value="车辆道闸" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="550" width="120" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="YQE8ubXrY4pjJoS9pgZT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-6" target="YQE8ubXrY4pjJoS9pgZT-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YQE8ubXrY4pjJoS9pgZT-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YQE8ubXrY4pjJoS9pgZT-14">
-          <mxGeometry x="-0.16" y="-2" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YQE8ubXrY4pjJoS9pgZT-31" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YQE8ubXrY4pjJoS9pgZT-14">
-          <mxGeometry x="-0.0427" y="5" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-6" target="YQE8ubXrY4pjJoS9pgZT-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -63,6 +50,9 @@
         </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-29" value="人车数据，单向光闸推送" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="848" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YQE8ubXrY4pjJoS9pgZT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.549;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-6" target="YQE8ubXrY4pjJoS9pgZT-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

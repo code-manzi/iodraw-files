@@ -58,13 +58,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-33" value="公安网" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1070" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="YQE8ubXrY4pjJoS9pgZT-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="750" as="sourcePoint" />
-            <mxPoint x="300" y="700" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="376.5" y="1089" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

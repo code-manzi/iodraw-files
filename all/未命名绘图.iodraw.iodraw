@@ -39,7 +39,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-8" value="公安内网安全边界" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="357" y="920" width="113" height="80" as="geometry" />
+          <mxGeometry x="357" y="890" width="113" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.86;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-8" target="YQE8ubXrY4pjJoS9pgZT-7">
           <mxGeometry relative="1" as="geometry" />
@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-33" value="公安网" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="373.5" y="1040" width="80" height="80" as="geometry" />
+          <mxGeometry x="373" y="1040" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-37" value="互联网" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="373" y="420" width="120" height="80" as="geometry" />

@@ -43,9 +43,10 @@
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.86;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-8" target="YQE8ubXrY4pjJoS9pgZT-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YQE8ubXrY4pjJoS9pgZT-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-15">
+        <mxCell id="YQE8ubXrY4pjJoS9pgZT-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520.0000000000002" y="843" as="targetPoint" />
+            <mxPoint x="520.0000000000002" y="860" as="sourcePoint" />
+            <mxPoint x="660.0000000000002" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-26" value="校验结果，&lt;div&gt;单向光闸&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YQE8ubXrY4pjJoS9pgZT-24">

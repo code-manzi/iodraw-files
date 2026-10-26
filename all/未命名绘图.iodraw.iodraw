@@ -10,20 +10,21 @@
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-1" value="用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YQE8ubXrY4pjJoS9pgZT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=connector;startArrow=classic;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-2" target="YQE8ubXrY4pjJoS9pgZT-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YQE8ubXrY4pjJoS9pgZT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=connector;startArrow=classic;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-2" value="小程序" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="270" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YQE8ubXrY4pjJoS9pgZT-4" value="互联网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="420" width="210" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-5" value="车辆道闸" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="550" width="120" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="YQE8ubXrY4pjJoS9pgZT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-6" target="YQE8ubXrY4pjJoS9pgZT-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YQE8ubXrY4pjJoS9pgZT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-6" value="应用服务器" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="550" width="120" height="75" as="geometry" />
@@ -48,8 +49,10 @@
             <mxPoint x="75" y="38" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YQE8ubXrY4pjJoS9pgZT-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.4;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-5" target="YQE8ubXrY4pjJoS9pgZT-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YQE8ubXrY4pjJoS9pgZT-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.4;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;" edge="1" parent="1" source="YQE8ubXrY4pjJoS9pgZT-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="409" y="496.48" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-29" value="人车数据，单向光闸推送" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="848" width="160" height="30" as="geometry" />
@@ -65,7 +68,7 @@
         <mxCell id="YQE8ubXrY4pjJoS9pgZT-33" value="公安网" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="373.5" y="1040" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YQE8ubXrY4pjJoS9pgZT-37" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YQE8ubXrY4pjJoS9pgZT-37" value="互联网" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="373" y="420" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
